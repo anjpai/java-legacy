@@ -6,3 +6,6 @@ Package ```com.neopragma.legacy.round0``` is the initial version of the code. Th
 
 See the [notes](notes/notes.md)
 
+src/test/java/com/neopragma/legacy/round0/
+.length() to isEmpty()
+replaceAll to replace()
